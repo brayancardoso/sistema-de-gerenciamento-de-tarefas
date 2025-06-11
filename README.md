@@ -1,5 +1,10 @@
-# Welcome to GitHub Desktop!
+# Sistema de Gerenciamento de Tarefas
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Este projeto é um sistema simples de gerenciamento de tarefas desenvolvido em linguagem C. Ele permite ao usuário:
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+- Cadastrar tarefas
+- Listar tarefas
+- Editar tarefas
+- Excluir tarefas
+- Salvar tarefas em um arquivo `.txt`
+
